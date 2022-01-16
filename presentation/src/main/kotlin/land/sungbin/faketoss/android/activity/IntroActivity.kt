@@ -1,4 +1,4 @@
-package land.sungbin.faketoss.android
+package land.sungbin.faketoss.android.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -9,7 +9,7 @@ import androidx.compose.material.Text
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 
-class MainActivity : ComponentActivity() {
+class IntroActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
