@@ -1,4 +1,4 @@
-package io.github.jisungbin.composetemplate
+package land.sungbin.faketoss.android
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
