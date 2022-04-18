@@ -21,7 +21,7 @@
 - Hilt
 - Room
 - Paging
-- Compose
+- Compose ([FTDS](https://github.com/faketoss/faketoss-ftds))
 - DataStore
 
 #### Test
